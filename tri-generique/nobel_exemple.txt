@@ -1,0 +1,1 @@
+1901	"Peace"	"Frédéric Passy"	"1822-05-20"^^xsd:date	"France"	"male"
